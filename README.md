@@ -1,11 +1,13 @@
-<div align="center">
+<div align="center" display="-webkit-inline-flex">
 
 
 ## Welcome, dear fellow 2024 Information Systems student or fellow Teaching Assistant of Programming Fundamental. 
 
-This repository will be the documentation of programming problem i made for Programming Fundamental Teaching Assistant. I will try to make it as informative as possible, however i will only share the solution in a certain conditions only.
+This repository will be the documentation of programming problem i made for Programming Fundamental Teaching Assistant. I will try to make it as informative as possible, however i will only share the solution in a certain conditions only. I can make the repository public or private on my demand.
 
-Feel free to ask anything. You can contact me via: wa.me/628113061614 at anytime.
+Feel free to ask anything. You can contact me via: 
+<a href="https://wa.me/628113061614">My whatsapp</a>
+anytime.
 
 #### Bonus: Student's expression each week after doing Coursework
 <div style="display:-webkit-inline-flex;">
