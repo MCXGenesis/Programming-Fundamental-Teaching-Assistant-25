@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 
 ## Welcome, dear fellow 2024 Information Systems student or fellow Teaching Assistant of Programming Fundamental. 
@@ -8,7 +8,7 @@ This repository will be the documentation of programming problem i made for Prog
 Feel free to ask anything. You can contact me via: wa.me/628113061614 at anytime.
 
 #### Bonus: Student's expression each week after doing Coursework
-<div style="display:inline-flex;">
+<div style="display:-webkit-inline-flex;">
 <div>
     <img src="https://static.wikia.nocookie.net/omori/images/7/75/OMORI_HAPPY.gif/revision/latest?cb=20211217073407" alt="Image 1" width="180">
     <pre>Coursework 1</pre>
