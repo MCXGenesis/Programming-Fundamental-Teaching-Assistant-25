@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 
 ## Welcome, dear fellow 2024 Information Systems student or fellow Teaching Assistant of Programming Fundamental. 
