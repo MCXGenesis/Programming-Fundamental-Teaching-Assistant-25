@@ -8,4 +8,4 @@ Feel free to ask anything. You can contact me via: wa.me/628113061614 at anytime
 
 ```
 ![Potret Mahasiswa](https://omori.fandom.com/wiki/File:OMORI_FURIOUS.gif)
-![Potret Emosi](https://omori.fandom.com/wiki/File:Stressed_Out_(Text).png)
+<img src="https://omori.fandom.com/wiki/File:Stressed_Out_(Text).png">
