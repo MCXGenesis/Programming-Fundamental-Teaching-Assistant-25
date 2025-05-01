@@ -13,7 +13,7 @@ anytime.
 <div style="display:-webkit-inline-flex;">
 <div style="width: 100;">
     <img src="https://static.wikia.nocookie.net/omori/images/7/75/OMORI_HAPPY.gif/revision/latest?cb=20211217073407" alt="Image 1">
-    <pre style="width: max-content; display: contents;">Coursework 1</pre>
+    <p>Coursework 1</p>
   </div>
   <div style="width: 100;">
     <img src="https://static.wikia.nocookie.net/omori/images/5/5a/OMORI_NEUTRAL.gif/revision/latest?cb=20211217073330" alt="Image 2">
