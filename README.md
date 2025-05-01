@@ -9,6 +9,8 @@ Feel free to ask anything. You can contact me via:
 <a href="https://wa.me/628113061614">My whatsapp</a>
 anytime.
 
+I am experimenting on the readme, sorry if it is full of randomness ^_^
+
 #### Bonus: Student's expression each week after doing Coursework
 <div style="display:-webkit-inline-flex;">
 <div style="width: 100;">
