@@ -2,8 +2,7 @@
     "java.project.sourcePaths": [
         ".",
         "LONELY GAME",
-        "MOLE",
-        "SQUARE"
+        "MOLE"
     ],
     "java.project.referencedLibraries": []
 }
