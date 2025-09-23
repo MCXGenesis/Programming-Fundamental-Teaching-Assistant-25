@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-import NERDBULA.Main;
+import src.Main;
+
+// import NERDBULA.Main;
 
 public class Main {
     public static void main(String[] args) {

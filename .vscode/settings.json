@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "LONELY GAME",
+        "MOLE",
+        "SQUARE"
+    ],
+    "java.project.referencedLibraries": []
+}

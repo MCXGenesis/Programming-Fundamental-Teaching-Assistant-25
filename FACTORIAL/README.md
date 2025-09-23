@@ -1,4 +1,4 @@
-# ID25_SQUARE
+# SQUARE
 
 Buat sebuah program untuk menemukan faktorial angka yang diinput. Gunakan `do-while` atau `while-do`.
 
